@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7d279072913d958226B20B4b2236BA233b66aFb4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x7d279072913d958226b20b4b2236ba233b66afb4",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 3
+  },
+  "NFT_NAME": "NFTEyeballs",
+  "SYMBOL": "EYES",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 10000000000000000 ,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/eyeballs-nfts",
+  "SHOW_BACKGROUND": true
+}
